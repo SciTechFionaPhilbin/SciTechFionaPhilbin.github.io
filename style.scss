@@ -1,0 +1,39 @@
+$brandColor: yellow;
+
+body {
+  font-family: system-ui;
+  background: yellow;
+  color: black;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
+p1{
+  font-size: 15px;
+  color: black;
+}
+p2{
+  place-text: center;
+  font-size: 15px;
+}
+h3{
+  color: red;
+  font-size: 40px;
+}
+p3{
+  font-size: 95px;
+  place-items: center;
+}
+p4{
+  font-size: 35px;
+}
+h2{
+  font-size: 65px;
+  color: white;
+}
+.bad day for dino{
+  width:200px;
+  height:400px;
+  transform:scale(0.75);
+}
